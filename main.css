@@ -1,0 +1,83 @@
+body{
+	background-color: crimson;
+}
+img	{
+	width: 8%;
+	float: left;
+	margin-left: 20px;
+	border: 1px solid black;
+}
+header{
+	margin-left: 150px;
+	text-align: left;
+	font-size: 18px;
+	font-family: sans-serif;
+}
+#capitulos{
+	border: 1px solid black;
+	float: right;
+	width: 800px;
+	height: 100px;
+	padding-top: 0px;
+	margin-top: -130px; 
+	margin-right: 10px;
+	background-color: #FFF022;
+}
+ul li {
+	display: inline-block;
+	margin-right: 10px;
+	border: 1px solid black;
+	padding: 3px;
+	border-radius: 10px;
+	background-color: yellow;
+}
+#left_yellow{
+	background: #5B676D;
+	width: 110px;
+	height: 400px;
+	/*Creo que esto puede servir para ver el estado de lo que he 
+	leido hasta el momento, es decir este valor aumentara de acuerdo a 
+	que tanto haya leido del libro :v, pero aun no se que color ponerle*/
+	margin-top: -1850px;
+	margin-left: 20px;
+	border-radius: 20px;
+	float: left;
+	
+}
+section{
+	width: 1100px;
+	height: 1850px;
+	background-color: white;
+	border: 1px solid black;
+	margin-left: 200px;
+	margin-top: 100px;
+	margin-bottom:;
+
+	
+}
+#cap_1{
+
+}
+#cap_1 .intro {
+	background-color: #AAA9AD;
+	margin: auto;
+	margin-top: 20px;
+	width: 90%;
+	padding: 20px;
+	font-size: 20px;
+	font-family: cursive;
+}
+#cap_1 .intro abbr{
+	color: #D8FF01;
+	background: black;
+	border: 1px solid #D8FF01;
+	border-radius: 0px;
+	padding: 3px;
+}
+
+.imagen{
+	width: 40%;
+	margin-left: 2px;
+	margin-right: 20px;
+	margin-top: 10px;
+}
